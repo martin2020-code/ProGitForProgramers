@@ -1,2 +1,3 @@
 class Calculator:
-	pass
+	def add(x,y):
+		return x + y
