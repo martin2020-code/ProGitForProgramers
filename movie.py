@@ -1,2 +1,5 @@
 class Movie:
-	pass
+	
+	def  __init__(self, title, actors):
+		self.title = title
+		self.actors = actors
